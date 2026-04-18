@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/version-0.2.15-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/version-0.2.16-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/built%20with-Go%20%2B%20Vue%203%20%2B%20Tauri-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/license-private-lightgrey?style=flat-square" />
 </p>
