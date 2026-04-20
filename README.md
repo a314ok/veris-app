@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/version-0.3.1-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/version-0.3.2-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/built%20with-Go%20%2B%20Vue%203%20%2B%20Tauri-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/license-private-lightgrey?style=flat-square" />
 </p>
@@ -30,9 +30,9 @@ Veris is a desktop streaming companion — a self-hosted, open-architecture alte
 
 | Platform | Installer |
 |----------|-----------|
-| **Windows** | [Veris_0.3.1_x64-setup.exe](https://github.com/a314ok/veris-app/releases/latest) |
-| **macOS (Apple Silicon)** | [Veris_0.3.1_aarch64.dmg](https://github.com/a314ok/veris-app/releases/latest) |
-| **macOS (Intel)** | [Veris_0.3.1_x64.dmg](https://github.com/a314ok/veris-app/releases/latest) |
+| **Windows** | [Veris_0.3.2_x64-setup.exe](https://github.com/a314ok/veris-app/releases/latest) |
+| **macOS (Apple Silicon)** | [Veris_0.3.2_aarch64.dmg](https://github.com/a314ok/veris-app/releases/latest) |
+| **macOS (Intel)** | [Veris_0.3.2_x64.dmg](https://github.com/a314ok/veris-app/releases/latest) |
 
 > The app auto-updates — once installed, Veris will notify you when a new version is available.
 
